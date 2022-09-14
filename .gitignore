@@ -1,0 +1,4 @@
+.vscode/
+*.csproj
+bin/
+obj/
